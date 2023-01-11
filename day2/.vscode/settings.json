@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/mbs/dev/Fugue-AdventOfCode/day2",
+            "binaryPath": "/home/mbs/dev/Fugue-AdventOfCode/day2/main",
+            "binaryArgs": []
+        }
+    ]
+}
