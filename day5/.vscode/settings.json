@@ -1,0 +1,26 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/mbs/dev/Fugue-AdventOfCode/day5",
+            "binaryPath": "/home/mbs/dev/Fugue-AdventOfCode/day5/main",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "array": "c",
+        "*.tcc": "c",
+        "deque": "c",
+        "list": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "functional": "c",
+        "iterator": "c",
+        "memory_resource": "c",
+        "numeric": "c",
+        "ostream": "c",
+        "streambuf": "c",
+        "tuple": "c",
+        "utility": "c"
+    }
+}
